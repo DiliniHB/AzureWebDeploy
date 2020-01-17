@@ -20,7 +20,7 @@ namespace AzureWebDeploy.Controllers
         [HttpGet("GetUserId")]
         public string GetUserId()
         {
-            return "DiliniH";
+            return "Dilini Himali";
         }
     }
 }
